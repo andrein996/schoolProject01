@@ -1,0 +1,3 @@
+2#Descriere a doua sarcina
+1#Cumpara ustensile
+3#Descriere a treia sarcina

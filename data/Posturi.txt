@@ -1,0 +1,4 @@
+1#Muncitor#fulltime
+2#Zugrav#parttime
+3#Sudor#fulltime
+4#Descriere#parttime
